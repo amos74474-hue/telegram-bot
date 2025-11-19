@@ -1,0 +1,11 @@
+data.json
+allowed_users.json
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+bot_auto_start.log
+bot_service.log
+bot_service_error.log
+*.log
